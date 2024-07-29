@@ -112,7 +112,7 @@ FIT_BANDS = {
 	'K': {'index': 0, 'fitrng':[1.95,2.38], 'description': 'full K-band'},
 	'K2': {'index': 0, 'fitrng':[2.03,2.23], 'description': 'K-band H2O/CH4'},
 	'K3': {'index': 0, 'fitrng':[2.26,2.38], 'description': 'K-band CO'},
-	'H': {'index': 1, 'fitrng':[1.52,1.7], 'description': 'full H-band'},
+	'H': {'index': 1, 'fitrng':[1.52,1.75], 'description': 'full H-band'},
 	'H2': {'index': 1, 'fitrng':[1.52,1.59], 'description': 'H-band H2O'},
 	'H3': {'index': 1, 'fitrng':[1.61,1.7], 'description': 'H-band CH4'},
 	'J': {'index': 2, 'fitrng':[1.15,1.33], 'description': 'full J-band'},
